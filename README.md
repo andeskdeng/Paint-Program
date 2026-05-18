@@ -1,1 +1,1 @@
-# solid-potato
+# MS-Potato
