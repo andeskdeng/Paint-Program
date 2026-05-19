@@ -1,51 +1,35 @@
-# Mushroom Simulation 🍄
+# Simple Paint Program 🎨
 
-A Python simulation project exploring mushroom growth behavior and environmental modeling.
+I made this project to practice Python and build a simple drawing program.
 
-## Project Overview
+## What it does
 
-This project simulates mushroom growth and explores how environmental conditions may affect development patterns.
+This program lets the user draw on the screen like a basic paint app. It helped me learn how to work with mouse input, colors, and graphics in Python.
 
-This project was built to practice:
+## What I learned
 
-- Python programming
-- Simulation modeling
-- Algorithm design
-- Data handling
-- Object-oriented programming
+- Python
+- Mouse events
+- Drawing with code
+- Debugging
+- Building a simple user interface
 
-## Features
-
-✅ Mushroom growth simulation  
-✅ Environmental behavior modeling  
-✅ Python-based implementation  
-✅ Experimental simulation logic  
-
-## Technologies Used
+## Tech Used
 
 - Python
 
-## Installation
-
-Clone repository:
-
-```bash
-git clone https://github.com/andeskdeng/mushroom-simulation.git
-cd mushroom-simulation
-```
-
-Run:
+## How to Run
 
 ```bash
 python MSpotato.py
 ```
 
-## Future Improvements
+## Future Plans
 
-- Visualization tools
-- Growth parameters
-- Environmental controls
-- Charts and statistics
+- Add more colors
+- Add brush sizes
+- Add an eraser
+- Add a save drawing feature
 
 ## Author
 
